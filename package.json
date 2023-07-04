@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-page",
+  "version": "9.7.2",
+  "description": "Small-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-walter-munene/Restaurant-Page.git"
+  },
+  "author": "John-Walter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-walter-munene/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/john-walter-munene/Restaurant-Page#readme",
+  "devDependencies": {
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
