@@ -199,4 +199,4 @@ let contactTitle = {
     'goldClassTwo': "contact-gold-right"
 }
 
-export { contacts, info, menu, reviews, homeTitle, menuTitle, contactTitle}
+export { contacts, info, menu, reviews, homeTitle, menuTitle, contactTitle }
